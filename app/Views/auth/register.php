@@ -6,7 +6,7 @@
                 <div class="text-center mb-4">
                     <i class="bi bi-person-plus display-4 text-success"></i>
                     <h3 class="fw-bold mt-2">Create Account</h3>
-                    <p class="text-muted">Join SocialApp today</p>
+                    <p class="text-muted">Join Y today</p>
                 </div>
 
                 <form action="<?= base_url('/register') ?>" method="post">

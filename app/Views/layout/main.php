@@ -15,7 +15,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm sticky-top">
     <div class="container">
         <a class="navbar-brand fw-bold fs-4" href="<?= base_url('/feed') ?>">
-            <i class="bi bi-stars me-1"></i>SocialApp
+            <i class="bi bi-stars me-1"></i>Y
         </a>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
@@ -92,7 +92,7 @@
 </main>
 
 <footer class="text-center text-muted py-4 mt-5 border-top">
-    <small>&copy; <?= date('Y') ?> SocialApp. Built with CodeIgniter 4.</small>
+    <small>&copy; <?= date('Y') ?> Y. All rights reserved.</small>
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>

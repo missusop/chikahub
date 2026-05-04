@@ -69,8 +69,7 @@ class Auth extends BaseController
         ]);
     }
 
-    // ─── Handle Register ───────────────────────────────────────────────────────
-
+    // ─── Handle Register ───────────────
     public function registerUser()
     {
         $rules = [
@@ -104,7 +103,7 @@ class Auth extends BaseController
             ->with('success', 'Account created! Please log in.');
     }
 
-    // ─── Logout ────────────────────────────────────────────────────────────────
+    // ─── Logout ──────────────────────
 
     public function logout()
     {

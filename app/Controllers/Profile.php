@@ -89,7 +89,7 @@ class Profile extends BaseController
         return redirect()->to('/profile/' . $userId)->with('success', 'Profile picture updated!');
     }
 
-    // ─── Follow / Unfollow ─────────────────────────────────────────────────────
+    // ─── Follow / Unfollow ────────────────────────────────
 
     public function follow(int $userId)
     {

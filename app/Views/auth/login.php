@@ -6,7 +6,7 @@
                 <div class="text-center mb-4">
                     <i class="bi bi-stars display-4 text-primary"></i>
                     <h3 class="fw-bold mt-2">Welcome Back</h3>
-                    <p class="text-muted">Sign in to SocialApp</p>
+                    <p class="text-muted">Y</p>
                 </div>
 
                 <!-- Login Form -->
